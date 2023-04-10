@@ -17,7 +17,7 @@ $output | Format-Table -AutoSize
 }
 
 #this line will call the function and displays the output.
-Collect-IPconfigurationInfo
+#Collect-IPconfigurationInfo
 
 
 #system
